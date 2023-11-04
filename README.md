@@ -1,6 +1,7 @@
 # Diabetes-Prediction-System
 
-![ABCD2](https://github.com/jaxtee/Diabetes-Prediction-System/assets/70596355/46ff2127-b112-4b22-bc1b-f2e5f6d09588)
+![WhatsApp Image 2023-10-07 at 21 43 12_75318700](https://github.com/jaxtee/Diabetes-Prediction-System/assets/70596355/28741cf4-268e-4657-8db8-bb5ca1fc90ba)
+
 
 ## Aim:
 To predict if a patient is diabetic or not
